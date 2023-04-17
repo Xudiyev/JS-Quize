@@ -1,0 +1,15 @@
+tr{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+td{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+th{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
